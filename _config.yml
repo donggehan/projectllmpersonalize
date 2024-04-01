@@ -1,3 +1,5 @@
+title: "Project LLM-Personalize"
+description: "webpage for the LLM-Personalize Project"
 include: ['/_includes']
 sass:
   sass_dir: _sass
