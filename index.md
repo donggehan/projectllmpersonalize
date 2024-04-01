@@ -1,18 +1,14 @@
----
 layout: default
----
 
 <div style="text-align: center;">
     <h1 style="font-size: 2em;">Title: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots</h1>
     <p style="font-size: 1.5em;">*Under submission to IROS 2024*</p>
 </div>
-*Under submission to IROS 2024*
 
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://arxiv.org/abs/YOUR_ARXIV_ID" style="background-color: blue; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px;">PDF Link</a>
-    <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em;">To be released soon</button>
+    <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em;">Code: To be released</button>
 </div>
-**Code:** To be released soon.
 
 <div style="text-align: center; font-size: 1.5em; margin-top: 20px;">
     Dongge Han, Trevor McInroe, Adam Jelley, Stefano V. Albrecht, Peter Bell, Amos Storkey
