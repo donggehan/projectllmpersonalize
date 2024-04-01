@@ -9,14 +9,14 @@ css: /assets/css/custom.css
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-    <a href="https://arxiv.org/abs/YOUR_ARXIV_ID" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv Link</a>
+    <a href="https://arxiv.org/submit/5509573/view" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv Link</a>
     <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em; width: auto; min-width: 160px; height: 50px; border-radius: 20px;">Code: To be released</button>
 
 </div>
 
-<div style="text-align: center; font-size: 1.1em; margin-top: 40px; max-width: 100%;">
+<div style="text-align: center; font-size: 1.1em; font-family: 'Times New Roman', Times, serif; margin-top: 40px; max-width: 100%;">
     Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
-    <p style="font-size: 1.0em;">School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</p>
+    <div style="font-size: 1.0em;font-style: italic; font-family: 'Times New Roman', Times, serif;">School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</div>
 </div>
 
 
