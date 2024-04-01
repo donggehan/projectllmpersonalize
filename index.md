@@ -9,8 +9,8 @@ css: /assets/css/custom.css
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-    <a href="https://arxiv.org/abs/YOUR_ARXIV_ID" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 40px;border-radius: 20px;">Arxiv Link</a>
-    <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em; height: 40px;border-radius: 20px;">Code: To be released</button>
+    <a href="https://arxiv.org/abs/YOUR_ARXIV_ID" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv Link</a>
+    <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em; height: 40px; border-radius: 20px;">Code: To be released/button>
 </div>
 
 <div style="text-align: center; font-size: 1.2em; margin-top: 40px;">
@@ -19,7 +19,7 @@ css: /assets/css/custom.css
 
 
 <div style="text-align: center; margin-top: 60px;">
-    <video controls style="width: 70%; max-width: 800px;">
+    <video controls style="width: 80%; max-width: 800px;">
         <source src="data/video/iros_demo_slow.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
