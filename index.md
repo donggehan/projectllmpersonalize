@@ -4,8 +4,8 @@ css: /assets/css/custom.css
 ---
 
 <div style="text-align: center; margin-top: 40px; max-width: 100%;">
-    <h1 style="font-size: 2.5em; margin-bottom: 20px; padding-bottom: 0;">Title: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots</h1>
-    <p style="font-size: 1.5em;">*Under submission to IROS 2024*</p>
+    <h1 style="font-size: 2.0em; margin-bottom: 20px; padding-bottom: 0;">Title: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots</h1>
+    <p style="font-size: 1.3em;">*Under submission to IROS 2024*</p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
@@ -14,7 +14,7 @@ css: /assets/css/custom.css
 
 </div>
 
-<div style="text-align: center; font-size: 1.4em; margin-top: 40px; max-width: 100%;">
+<div style="text-align: center; font-size: 1.0em; margin-top: 40px; max-width: 100%;">
     Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
     <p style="font-size: 0.9em;">School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</p>
 </div>
