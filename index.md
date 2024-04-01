@@ -14,7 +14,7 @@ css: /assets/css/custom.css
 
 </div>
 
-<div style="text-align: center; font-size: 1.2em; margin-top: 40px; max-width: 100%;">
+<div style="text-align: center; font-size: 1.1em; margin-top: 40px; max-width: 100%;">
     Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
     <p style="font-size: 1.0em;">School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</p>
 </div>
