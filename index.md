@@ -21,7 +21,7 @@ css: /assets/css/custom.css
 
 
 <div style="text-align: center; margin-top: 60px;">
-    <video controls style="width: 80%; max-width: 800px;">
+    <video controls style="width: 90%; max-width: 800px;">
         <source src="data/video/iros_demo_slow.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
