@@ -3,7 +3,7 @@ layout: default
 css: /assets/css/custom.css
 ---
 
-<div style="text-align: center; margin-top: 40px;">
+<div style="text-align: center; margin-top: 40px; max-width: 100%;">
     <h1 style="font-size: 2.5em; margin-bottom: 20px; padding-bottom: 0;">Title: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots</h1>
     <p style="font-size: 1.5em;">*Under submission to IROS 2024*</p>
 </div>
@@ -14,14 +14,14 @@ css: /assets/css/custom.css
 
 </div>
 
-<div style="text-align: center; font-size: 1.4em; margin-top: 40px;">
+<div style="text-align: center; font-size: 1.4em; margin-top: 40px; max-width: 100%;">
     Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
     <p style="font-size: 0.9em;">School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</p>
 </div>
 
 
 <div style="text-align: center; margin-top: 60px;">
-    <video controls style="width: 90%; max-width: 800px;">
+    <video controls style="width: 100%; max-width: 800px;">
         <source src="data/video/iros_demo_slow.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
