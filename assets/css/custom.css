@@ -2,3 +2,11 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: none !important;
     border-top: none !important;
 }
+
+.main-content {
+    max-width: 90%;
+}
+
+.page-content {
+    max-width: 90%;
+}
