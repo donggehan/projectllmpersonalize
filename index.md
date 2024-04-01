@@ -10,11 +10,12 @@ css: /assets/css/custom.css
 
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://arxiv.org/abs/YOUR_ARXIV_ID" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv Link</a>
-    <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em; height: 40px; border-radius: 20px;">Code: To be released</button>
+    <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em; width: auto; min-width: 160px; height: 50px; border-radius: 20px;">Code: To be released</button>
+
 </div>
 
 <div style="text-align: center; font-size: 1.4em; margin-top: 40px;">
-    Dongge&nbsp;Han Trevor&nbsp;McInroe Adam&nbsp;Jelley Stefano&nbsp;V.&nbsp;Albrecht Peter&nbsp;Bell Amos&nbsp;Storkey
+    Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
 </div>
 
 
