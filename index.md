@@ -16,6 +16,7 @@ css: /assets/css/custom.css
 
 <div style="text-align: center; font-size: 1.4em; margin-top: 40px;">
     Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
+    <p style="font-size: 1.2em;">All authors are affiliated with the School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</p>
 </div>
 
 
