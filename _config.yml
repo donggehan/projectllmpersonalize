@@ -1,4 +1,10 @@
-title: ""
-description: "This is the project homepage for LLM-Personalize"
-navbar-links:
-  Home: '/'
+include: ['/_includes']
+sass:
+  sass_dir: _sass
+  style: compressed
+
+theme: minima
+# Assuming you are using a theme called 'minima'; replace with your theme's name if different.
+
+# Add this line to reference your custom CSS
+custom_css: "assets/css/custom.css"
