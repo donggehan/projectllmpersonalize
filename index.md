@@ -9,7 +9,7 @@ css: /assets/css/custom.css
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
-    <a href="https://arxiv.org/submit/5509573/view" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv Link</a>
+    <a href="https://arxiv.org/abs/2404.14285" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv Link</a>
     <button style="background-color: grey; color: white; padding: 10px 20px; text-align: center; border: none; font-size: 1.2em; width: auto; min-width: 160px; height: 50px; border-radius: 20px;">Code: To be released</button>
 
 </div>
