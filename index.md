@@ -5,7 +5,6 @@ css: /assets/css/custom.css
 
 <div style="text-align: center; margin-top: 40px; max-width: 100%;">
     <h1 style="font-size: 2.0em; margin-bottom: 20px; padding-bottom: 0;">LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots</h1>
-    <p style="font-size: 1.3em;">*Under submission to IROS 2024*</p>
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
