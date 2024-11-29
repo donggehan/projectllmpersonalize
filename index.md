@@ -14,6 +14,10 @@ css: /assets/css/custom.css
 </div>
 
 <div style="text-align: center; font-size: 1.1em; font-family: 'Times New Roman', Times, serif; margin-top: 40px; max-width: 100%;">
+    To Appear at COLING 2025
+</div>
+
+<div style="text-align: center; font-size: 1.1em; font-family: 'Times New Roman', Times, serif; margin-top: 40px; max-width: 100%;">
     Dongge&nbsp;Han, Trevor&nbsp;McInroe, Adam&nbsp;Jelley, Stefano&nbsp;V.&nbsp;Albrecht, Peter&nbsp;Bell, Amos&nbsp;Storkey
     <div style="font-size: 1.0em;font-style: italic; font-family: 'Times New Roman', Times, serif;">School of Informatics, University of Edinburgh, Edinburgh, United Kingdom.</div>
 </div>
