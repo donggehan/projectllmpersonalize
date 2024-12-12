@@ -9,12 +9,12 @@ css: /assets/css/custom.css
 
 <div style="text-align: center; margin-top: 20px;">
     <a href="https://arxiv.org/abs/2404.14285" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Arxiv</a>
-    <a href="https://github.com/donggehan/codellmpersonalize" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Code</a>
+    <a href="https://github.com/gdg94/codellmpersonalize" style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Code</a>
     <a href="https://youtu.be/kyzRrVfgxsI"  style="background-color: #4dabf7; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 1.2em; margin-right: 20px; height: 30px; border-radius: 20px;">Youtube</a>
 </div>
 
 <div style="text-align: center; font-size: 1.1em; font-family: 'Times New Roman', Times, serif; margin-top: 40px; max-width: 100%;">
-    To Appear at COLING 2025
+    COLING 2025
 </div>
 
 <div style="text-align: center; font-size: 1.1em; font-family: 'Times New Roman', Times, serif; margin-top: 40px; max-width: 100%;">
